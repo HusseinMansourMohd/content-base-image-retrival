@@ -1,5 +1,5 @@
 # content-base-image-retrival
-#Abstract
+# Abstract
 With the exploding number of images being generated every day, image retrieval has
 quickly become an integral part of many modern day applications, which in turn puts
 new constraints on the level of accepted accuracy for retrieval systems, this being
