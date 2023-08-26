@@ -2,6 +2,7 @@
 
 This project aims to improve the efficiency and precision of content-based image retrieval (CBIR) using deep neural networks. It is focused on overcoming traditional limitations associated with text-based image retrieval, low-level features-based approaches, and local features-based approaches. Specifically, it introduces the application of EfficientNets, R-MAC vectors, diffusion process, and fine-tuning to enhance CBIR performance. 
 
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
